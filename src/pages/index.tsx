@@ -13,7 +13,6 @@ export default function Home() {
       <h1 className=" text-3xl text-pink-500" css={{backgroundColor: 'teal'}}>
         Welcome to Your App
       </h1>
-      <DarkModeToggle />
     </div>
   )
 }
